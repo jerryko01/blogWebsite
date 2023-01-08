@@ -1,0 +1,57 @@
+/* Navbar */
+#navbar {
+    padding: 1rem;
+    letter-spacing: 3px;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.container-fluid {
+    padding: 0 12px 0 60px;
+}
+
+.navbar-nav  li a:hover {
+    color: #1abc9c !important;
+}
+
+section {
+    padding: 20px 6.25rem 20px 6.25rem;
+}
+
+section h1 {
+    margin-bottom: 1rem;
+}
+
+section h3 {
+    margin-bottom: 1rem;
+}
+
+
+/* Footer */
+.footer {
+	position: absolute;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+    background-color: #1abc9c;
+    padding: 7px 0;
+}
+
+.footer p {
+    font-size: 0.8rem;
+    margin: 0;
+}
+
+/* compose */
+.composeForm {
+    position: relative;
+    margin-top: 1rem;
+}
+
+form button {
+    position: absolute;
+    margin-top: 1rem;
+    right: 0px;
+}

@@ -70,3 +70,4 @@ app.listen(process.env.PORT || 3000, function () {
 
 
 // just testing something out with github one second
+// use deta to deploy for free (Heroku Stopped)
